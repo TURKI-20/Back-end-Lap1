@@ -1,0 +1,25 @@
+[
+    {
+        "name" :{
+            
+            "firstName" : "Turki",
+            "lastName" : "Fahad"
+                    }
+
+    },
+
+
+    {
+       
+        "roomNumber" : 20 ,
+        "bookingDateFrom" : "2023-02-19",
+        "bookingDateTo" : "2023-3-19",
+        "paid" :true,
+        "attended" : false
+
+
+    }
+
+
+
+]
